@@ -1,5 +1,5 @@
 
-[![](https://www.gravatar.com/avatar/f513e03b707a848bcd739c335320fea8347c7feebdd3ca90c68fa8855640dc76?s=400)](https://gravatar.com/henryvarley)
+[Gravitar](https://gravatar.com/henryvarley)
 
 
 

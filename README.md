@@ -1,5 +1,6 @@
 
-<iframe src="https://gravatar.com/henryvarley.card" width="415" height="400" style={{ border: 0, margin: 0, padding: 0 }}></iframe>
+[![](https://www.gravatar.com/avatar/f513e03b707a848bcd739c335320fea8347c7feebdd3ca90c68fa8855640dc76?s=400)](https://gravatar.com/henryvarley)
+
 
 
 <!--
